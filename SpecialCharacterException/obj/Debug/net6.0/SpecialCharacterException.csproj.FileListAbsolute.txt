@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\bin\Debug\net6.0\SpecialCharacterException.exe
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\bin\Debug\net6.0\SpecialCharacterException.deps.json
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\bin\Debug\net6.0\SpecialCharacterException.runtimeconfig.json
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\bin\Debug\net6.0\SpecialCharacterException.dll
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\bin\Debug\net6.0\ref\SpecialCharacterException.dll
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\bin\Debug\net6.0\SpecialCharacterException.pdb
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.dll
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\ref\SpecialCharacterException.dll
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.pdb
+C:\Users\Pavani\source\repos\SpecialCharacterException\SpecialCharacterException\obj\Debug\net6.0\SpecialCharacterException.genruntimeconfig.cache
